@@ -33,7 +33,7 @@ This project is a **blockchain-powered multiplayer lottery system** built using 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/raffle-contract.git
+   https://github.com/0x-Mrcoder/Lottery.git
    cd raffle-contract
    ```
 2. Install Foundry:
